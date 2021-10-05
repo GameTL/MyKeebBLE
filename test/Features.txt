@@ -1,0 +1,9 @@
+
+
+Things I want this software to do.
+    1. Media Function row like Keychron
+    2. Physical swtich for bluetooth and wired
+    3. 
+    4. Battery percentage[low priority]
+
+
